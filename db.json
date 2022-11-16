@@ -222,6 +222,7 @@
       "id": 1,
       "name": "Samsung",
       "price": 10000,
+      "year": 2021,
       "quantity": 10,
       "country": "India",
       "q1": "Jan",
