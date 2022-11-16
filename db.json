@@ -220,11 +220,11 @@
   "agGrid": [
     {
       "id": 1,
-      "name": "Samsung",
+      "brand": "Samsung",
       "price": 10000,
       "year": 2021,
       "quantity": 10,
-      "country": "India",
+      "ww": "Amr",
       "q1": "Jan",
       "tvType": "LED",
       "tvSize": "32"
