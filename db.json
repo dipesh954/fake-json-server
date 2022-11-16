@@ -1,0 +1,331 @@
+{
+  "practical": [
+    {
+      "id": 1,
+      "title": "Practical 1",
+      "link": "https://react-practical-1.netlify.app/",
+      "Repo_link": "https://github.com/Akash52/react-sm-practice/tree/practical-1",
+      "des": "Using React CRA we simply Print Hello World in React Home Page.",
+      "image_link": ""
+    },
+    {
+      "id": 2,
+      "title": "Practical 2",
+      "link": "https://react-practical-1.netlify.app/",
+      "Repo_link": "https://github.com/Akash52/react-sm-practice/tree/practical-1",
+      "des": "Using React CRA we simply Print Hello World in React Home Page.",
+      "image_link": ""
+    },
+    {
+      "id": 3,
+      "title": "Practical 3",
+      "link": "https://react-practical-1.netlify.app/",
+      "Repo_link": "https://github.com/Akash52/react-sm-practice/tree/practical-1",
+      "des": "Using React CRA we simply Print Hello World in React Home Page.",
+      "image_link": ""
+    }
+  ],
+  "cardata": [
+    {
+      "id": 1,
+      "name": "Lamborghini Sian Roadster",
+      "top_speed": "350 kmh",
+      "description": "The first open-top hybrid Lamborghini super sports car to feature a supercapacitor, the Sián Roadster roars with electrified intensity,",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/q_60/v1662916442/01_dq3tqn.jpg",
+      "price": ""
+    },
+    {
+      "id": 2,
+      "name": "Pagani Huayra Roadster BC",
+      "top_speed": "350 kmh",
+      "description": "Introduced in July 2019, the Huayra BC Roadster or the Huarya Roadster BC is an open top variant of the Huarya BC",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1662916907/02_fqmeys.jpg",
+      "price": ""
+    },
+    {
+      "id": 3,
+      "name": "McLaren Speedtail",
+      "top_speed": "403 kmh",
+      "description": "The McLaren Speedtail is a sports car produced by McLaren Automotive. It was designed by the British automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/q_60/v1662917022/03_s2shg8.jpg",
+      "price": "₹30 Crores "
+    },
+    {
+      "id": 4,
+      "name": "Aston Martin Valkyrie",
+      "top_speed": "350 kmh",
+      "description": "The Valkyrie is a sports car produced by Aston Martin. It was designed by the British automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917103/04_dfn53g.jpg",
+      "price": "₹40 Crores"
+    },
+    {
+      "id": 5,
+      "name": "Hennessey Venom GT",
+      "top_speed": "435.31 kmh",
+      "description": "The Venom GT is a sports car produced by Hennessey. It was designed by the British automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917124/05_xyqzyu.jpg",
+      "price": "₹45 Crores"
+    },
+    {
+      "id": 6,
+      "name": "Koenigsegg Jesko Absolut",
+      "top_speed": "483 kmh",
+      "description": "The Jesko is a sports car produced by Koenigsegg Automotive. It was designed by the Swedish automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917147/06_wlld0u.jpg",
+      "price": "₹50 Crores"
+    },
+    {
+      "id": 7,
+      "name": "SSC Tuatara",
+      "top_speed": "508 kmh",
+      "description": "The Tuatara is a sports car produced by SSC. It was designed by the German automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917157/07_ihg3do.jpg",
+      "price": "₹55 Crores"
+    },
+    {
+      "id": 8,
+      "name": "Bugatti Chiron Sport 300+",
+      "top_speed": "482 kmh",
+      "description": "The Chiron Super Sport 300+ is a sports car produced by Bugatti Automotive. It was designed by the French automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917173/11_xomw0i.jpg",
+      "price": "₹60 Crores"
+    },
+    {
+      "id": 9,
+      "name": "Bugatti Bolide",
+      "top_speed": "498 kmh",
+      "description": "The Bolide is a sports car produced by Bugatti Automotive. It was designed by the French automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917184/09_vesy7u.jpg",
+      "price": "₹65 Crores"
+    },
+    {
+      "id": 10,
+      "name": "Koenigsegg CCR",
+      "top_speed": "388 kmh",
+      "description": "The CCR is a sports car produced by Koenigsegg Automotive. It was designed by the Swedish automotive designer",
+      "image_link": "https://res.cloudinary.com/dsjjwwgwh/image/upload/v1662917199/10_gzc5yf.jpg",
+      "price": "₹70 Crores"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "anto@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "anto@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "samantha@gmail.com"
+    },
+    {
+      "name": "Akashvsdvsd",
+      "email": "19it197@gmail.com",
+      "password": "abc",
+      "id": 11
+    },
+    {
+      "name": "Akash",
+      "email": "hello@gmail.com",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "hello@gmail.com",
+      "password": "123456",
+      "id": 13
+    },
+    {
+      "name": "Akash",
+      "email": "hello@gmail.com",
+      "password": "123456",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "name": "Leanne Graham",
+      "email": "anto@gmail.com",
+      "password": "fhgdfd",
+      "id": 17
+    },
+    {
+      "name": "sdfsedf",
+      "email": "hello@gmail.com",
+      "password": "123456",
+      "id": 18
+    }
+  ],
+
+  "agGrid": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": 10000,
+      "quantity": 10,
+      "country": "India",
+      "date": "2020-01-01",
+      "tvType": "LED",
+      "tvSize": "32"
+    },
+    {
+      "id": 2,
+      "name": "Sony",
+      "price": 20000,
+      "quantity": 20,
+      "country": "USA",
+      "date": "2020-01-02",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    },
+    {
+      "id": 3,
+      "name": "LG",
+      "price": 30000,
+      "quantity": 30,
+      "country": "UK",
+      "date": "2020-01-03",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 2000000
+    },
+    {
+      "id": 4,
+      "name": "Panasonic",
+      "price": 40000,
+      "quantity": 40,
+      "country": "Japan",
+      "date": "2020-01-04",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 1000000
+    },
+    {
+      "id": 5,
+      "name": "Toshiba",
+      "price": 50000,
+      "quantity": 50,
+      "country": "China",
+      "date": "2020-01-05",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 1000000
+    },
+    {
+      "id": 6,
+      "name": "Philips",
+      "price": 60000,
+      "quantity": 60,
+      "country": "India",
+      "date": "2020-01-06",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    },
+    {
+      "id": 7,
+      "name": "Onida",
+      "price": 70000,
+      "quantity": 70,
+      "country": "USA",
+      "date": "2020-01-07",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 2000000
+    },
+    {
+      "id": 8,
+      "name": "Videocon",
+      "price": 80000,
+      "quantity": 80,
+      "country": "UK",
+      "date": "2020-01-08",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 1000000
+    },
+    {
+      "id": 9,
+      "name": "Mitashi",
+      "price": 90000,
+      "quantity": 90,
+      "country": "Japan",
+      "date": "2020-01-09",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 1000000
+    },
+    {
+      "id": 10,
+      "name": "BPL",
+      "price": 100000,
+      "quantity": 100,
+      "country": "China",
+      "date": "2020-01-10",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    }
+  ]
+}
