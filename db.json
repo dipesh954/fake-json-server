@@ -230,27 +230,26 @@
       "w1": "32"
     },
     {
-      "athlete": "brand",
-      "age": 23,
-      "country": "United States",
-      "year": 2008,
-      "date": "24/08/2008",
-      "sport": "region",
-      "gold": 8,
-      "silver": 0,
-      "bronze": 0,
-      "total": 8
-      },
+      "id": 2,
+      "brand": "Sony",
+      "price": 10000,
+      "year": 2021,
+      "quantity": 10,
+      "region": "WW",
+      "q1": "Jan",
+      "jan": "2500",
+      "w1": "50"
+    },
     {
       "id": 3,
       "name": "LG",
-      "price": 30000,
-      "quantity": 30,
-      "country": "UK",
-      "date": "2020-01-03",
-      "tvType": "LED",
-      "tvSize": "32",
-      "totalSales": 2000000
+      "price": 10000,
+      "year": 2021,
+      "quantity": 10,
+      "region": "WW",
+      "q1": "Jan",
+      "jan": "2500",
+      "w1": "80"
     },
     {
       "id": 4,
