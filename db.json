@@ -230,16 +230,17 @@
       "w1": "32"
     },
     {
-      "id": 2,
-      "name": "Sony",
-      "price": 20000,
-      "quantity": 20,
-      "country": "USA",
-      "date": "2020-01-02",
-      "tvType": "LCD",
-      "tvSize": "42",
-      "totalSales": 2000000
-    },
+      "athlete": "Michael Phelps",
+      "age": 23,
+      "country": "United States",
+      "year": 2008,
+      "date": "24/08/2008",
+      "sport": "Swimming",
+      "gold": 8,
+      "silver": 0,
+      "bronze": 0,
+      "total": 8
+      },
     {
       "id": 3,
       "name": "LG",
