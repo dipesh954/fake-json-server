@@ -220,7 +220,7 @@
   "agGrid": [
     {
       "id": 1,
-      "brand": "Samsung",
+      "name": "Samsung",
       "price": 10000,
       "year": 2021,
       "quantity": 10,
