@@ -226,8 +226,8 @@
       "quantity": 10,
       "ww": "Amr",
       "q1": "Jan",
-      "tvType": "LED",
-      "tvSize": "32"
+      "jan": "2500",
+      "w1": "32"
     },
     {
       "id": 2,
