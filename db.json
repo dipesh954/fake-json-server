@@ -221,7 +221,6 @@
     {
       "id": 1,
       "brand": "Samsung",
-      "price": 10000,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -234,7 +233,6 @@
     {
       "id": 2,
       "brand": "Samsung",
-      "price": 10000,
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -248,7 +246,6 @@
     {
       "id": 3,
       "brand": "Samsung",
-      "price": 10000,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -262,7 +259,6 @@
     {
       "id": 4,
       "brand": "Lg",
-      "price": 10000,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -276,7 +272,6 @@
     {
       "id": 5,
       "brand": "Lg",
-      "price": 10000,
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -290,7 +285,6 @@
     {
       "id": 6,
       "brand": "Lg",
-      "price": 10000,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -304,7 +298,6 @@
     {
       "id": 7,
       "brand": "Sony",
-      "price": 10000,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -318,7 +311,6 @@
     {
       "id": 8,
       "brand": "Sony",
-      "price": 10000,
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -332,7 +324,6 @@
     {
       "id": 9,
       "brand": "Sony",
-      "price": 10000,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -346,7 +337,6 @@
     {
       "id": 10,
       "brand": "Samsung",
-      "price": 15000,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -359,8 +349,6 @@
     {
       "id": 11,
       "brand": "Samsung",
-      "price": 300,
-      "year": 2021,
       "region": "APAC",
       "ww": "WW",
       "q1": "Feb",
@@ -373,7 +361,6 @@
     {
       "id": 12,
       "brand": "Samsung",
-      "price": 300,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -387,7 +374,6 @@
     {
       "id": 13,
       "brand": "Lg",
-      "price": 400,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -401,7 +387,6 @@
     {
       "id": 14,
       "brand": "Lg",
-      "price": 200,
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -415,7 +400,6 @@
     {
       "id": 15,
       "brand": "Lg",
-      "price": 400,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -429,7 +413,6 @@
     {
       "id": 16,
       "brand": "Sony",
-      "price": 500,
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -443,7 +426,6 @@
     {
       "id": 17,
       "brand": "Sony",
-      "price": 300,
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -457,7 +439,6 @@
     {
       "id": 18,
       "brand": "Sony",
-      "price": 400,
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
