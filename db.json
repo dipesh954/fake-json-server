@@ -218,7 +218,6 @@
   ],
 
   "agGrid": [
-     //2021 q1 Jan Mobiles
     {
       "id": 1,
       "brand": "Samsung",
@@ -336,8 +335,6 @@
       "2021_q1_jan_w3": "45",
       "2021_q1_jan_w4": "65"
     },
-
-    //2021 q1 Feb
     {
       "id": 10,
       "brand": "Samsung",
