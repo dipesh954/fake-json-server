@@ -219,6 +219,7 @@
 
   "agGrid": [
     {
+      "2021_q1_jan_Mobiles":"",
       "id": 1,
       "brand": "Samsung",
       "product": "Mobiles",
@@ -455,20 +456,23 @@
     },
 
     {
-      "id": 10,
+      "2021_q1_feb_Mobiles":"",
+      "id": 19,
       "brand": "Samsung",
+      "product": "Mobiles",
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
       "2021_q1_feb": "Feb",
-      "2021_q1_feb_w1": "3931",
+      "2021_q1_feb_w1": "39",
       "2021_q1_feb_w2": "30",
       "2021_q1_feb_w3": "55",
       "2021_q1_feb_w4": "60"
     },
     {
-      "id": 11,
+      "id": 20,
       "brand": "Samsung",
+      "product": "Mobiles",
       "region": "APAC",
       "ww": "WW",
       "2021_q1_feb": "Feb",
@@ -478,8 +482,9 @@
       "2021_q1_feb_w4": "35"
     },
     {
-      "id": 12,
+      "id": 21,
       "brand": "Samsung",
+      "product": "Mobiles",
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -490,8 +495,9 @@
       "2021_q1_feb_w4": "29"
     },
     {
-      "id": 13,
+      "id": 22,
       "brand": "Lg",
+      "product": "Mobiles",
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
@@ -502,8 +508,9 @@
       "2021_q1_feb_w4": "45"
     },
     {
-      "id": 14,
+      "id": 23,
       "brand": "Lg",
+      "product": "Mobiles",
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -514,8 +521,9 @@
       "2021_q1_feb_w4": "45"
     },
     {
-      "id": 15,
+      "id": 24,
       "brand": "Lg",
+      "product": "Mobiles",
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -526,8 +534,9 @@
       "2021_q1_feb_w4": "45"
     },
     {
-      "id": 16,
+      "id": 25,
       "brand": "Sony",
+      "product": "Mobiles",
       "year": 2021,
       "region": "AMR",
       "ww": "WW",
@@ -538,8 +547,9 @@
       "2021_q1_feb_w4": "45"
     },
     {
-      "id": 17,
+      "id": 26,
       "brand": "Sony",
+      "product": "Mobiles",
       "year": 2021,
       "region": "APAC",
       "ww": "WW",
@@ -550,8 +560,9 @@
       "2021_q1_feb_w4": "45"
     },
     {
-      "id": 18,
+      "id": 27,
       "brand": "Sony",
+      "product": "Mobiles",
       "year": 2021,
       "region": "EURO",
       "ww": "WW",
