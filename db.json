@@ -223,14 +223,14 @@
       "id": 1,
       "brand": "Samsung",
       "product": "Mobiles",
-      "Year": "2021",
+      "year": "2021",
       "region": "AMR",
       "ww": "WW",
       "2021_q1_jan": "Jan",
-      "Pop": 32,
-      "2021_q1_jan_w2": "48",
-      "2021_q1_jan_w3": "25",
-      "2021_q1_jan_w4": "30"
+      "2021_q1_jan_w1": 32,
+      "2021_q1_jan_w2": 48,
+      "2021_q1_jan_w3": 25,
+      "2021_q1_jan_w4": 30
     },
     {
       "id": 2,
@@ -460,14 +460,14 @@
       "id": 19,
       "brand": "Samsung",
       "product": "Mobiles",
-      "year": 2021,
+      "year": "2021",
       "region": "AMR",
       "ww": "WW",
       "2021_q1_feb": "Feb",
-      "2021_q1_feb_w1": "39",
-      "2021_q1_feb_w2": "30",
-      "2021_q1_feb_w3": "55",
-      "2021_q1_feb_w4": "60"
+      "2021_q1_feb_w1": 39,
+      "2021_q1_feb_w2": 30,
+      "2021_q1_feb_w3": 55,
+      "2021_q1_feb_w4": 60
     },
     {
       "id": 20,
